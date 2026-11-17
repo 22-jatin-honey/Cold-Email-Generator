@@ -182,8 +182,9 @@ vectorstore/
 
 **Your Name**
 
-- GitHub: `https://github.com/YOUR_USERNAME`
-- LinkedIn: `https://www.linkedin.com/in/YOUR_PROFILE/`
+- GitHub: `https://github.com/22-jatin-honey
+`
+- LinkedIn: `https://github.com/22-jatin-honey`
 
 ---
 
